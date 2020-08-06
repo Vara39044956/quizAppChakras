@@ -1,0 +1,23 @@
+start screen
+whenever the user clicks anywhere on the page, a trail of caduceuses appear
+when the user clicks on the begin button, they are taken to the first quiz question
+
+question screen
+whenever the user clicks anywhere on the page, a trail of mandalas appear
+the user sees the number of questions answered correctly thus far
+the users sees how many questions they have completed thus far
+the user sees the question
+the user sees the four answer options
+the user selects one answer option and is taken to the answer screen
+
+answer screen
+whenever the user clicks anywhere on the page, a trail of mandalas appear
+the user sees that they answered correctly or incorrectly
+the user is shown each of the answer choices in list form
+the user sees the correct answer highlighted
+when the user clicks the next button, they are taken to the next question
+
+end screen
+whenever the user clicks anywhere on the page, a trail of lotuses appear
+the user sees their total correct
+the user clicks the begin again button to go back to the start screen
